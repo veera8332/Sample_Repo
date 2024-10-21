@@ -8,6 +8,12 @@ public class CreateContactTest {
 	public void createContactTest() {
 		System.out.println("createContact");	
 	}
+
+	@Test
+	public void modifyContactTest() {
+		System.out.println("modifyContact");	
+	}
+	
 	@Test
 	public void deleteContactTest() {
 		System.out.println("deleteContact");	
